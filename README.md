@@ -86,9 +86,12 @@ this plugin. It is very flexible with customizable settings ( See screenshot ima
 
   **.simple_display p**: You can style the reviews text with this.               
 
-  **sdfwr_readmore**: The CSS class for read more link.
+  **.sdfwr_readmore**: The CSS class for read more link.
 
-  **sdfwr_load**: The CSS class for load more button.
+  **.sdfwr_load**: The CSS class for load more button.                         
+  
+ ## Demo                 
+ https://github.com/mostafa272/Simple-Display-For-Woocommerce-Reviews/wiki/Demo
 
  ## Plugin page at wordpress.org:            
  

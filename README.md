@@ -5,7 +5,12 @@ The Simple Display For Woocommerce Reviews is a simple widget to show Woocommerc
 Download simple-display-for-woocommerce-reviews.zip file and upload it to wordpress plugins folder, then activate it. 
 If you download release file, you should extract it to find simple-display-for-woocommerce-reviews.zip file.                 
 
-## Donate to support us                                     
+## Donate to support us                  
+
+**Paypal:**           
+https://paypal.me/MShahiri         
+
+**Bitcoin:**            
                                                                    
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)](https://en.cryptobadges.io/donate/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)
                                                    
